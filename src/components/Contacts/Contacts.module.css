@@ -1,0 +1,29 @@
+.delete__list {
+  list-style: none;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 300px;
+}
+.delete__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.delete__userName {
+  margin-right: auto;
+}
+.delete__btn {
+  content: '';
+  border: none;
+  align-self: baseline;
+  display: inline-block;
+  background-image: url(../../images/icons8-trash.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  background-color: transparent;
+}
