@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/winston4521/goit-react-hw-03-phonebook.git/static/css/main.65b8be66.css",
+    "main.js": "/winston4521/goit-react-hw-03-phonebook.git/static/js/main.f50c47c4.js",
+    "static/media/icons8-trash.svg": "/winston4521/goit-react-hw-03-phonebook.git/static/media/icons8-trash.c0ba9321f844af96667d.svg",
+    "index.html": "/winston4521/goit-react-hw-03-phonebook.git/index.html",
+    "main.65b8be66.css.map": "/winston4521/goit-react-hw-03-phonebook.git/static/css/main.65b8be66.css.map",
+    "main.f50c47c4.js.map": "/winston4521/goit-react-hw-03-phonebook.git/static/js/main.f50c47c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65b8be66.css",
+    "static/js/main.f50c47c4.js"
+  ]
+}
